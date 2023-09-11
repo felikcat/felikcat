@@ -1,0 +1,3 @@
+Scan this image, or click on it to tip me on Ko-fi:
+
+image:kofi_qrcode.png[link="https://ko-fi.com/felikcat"]
