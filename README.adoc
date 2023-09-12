@@ -1,9 +1,10 @@
 == About
-I prefer to program in Zig, C, or PowerShell. High-level languages bring a high-level of frustration to me; I'd rather spend a lot of time getting minimal done by using low-level languages, to benefit myself greatly in the long-term. +
+A 22 year old male currently studying a 2022 CompTIA+ Networking book and using Zig.
+
+I prefer to program in Zig or C despite knowing little, but know a good amount of Bash. PowerShell I know enough to hold my own, but my knowledge in it is going rust over time.
+
 I document in https://docs.asciidoctor.org/asciidoctor/latest/#what-is-asciidoctor[AsciiDoctor] since it is more feature-rich and easier to use than Markdown. Bring mathematical equations into the mix, and AsciiDoctor is in a realm its own; it can https://docs.asciidoctor.org/asciidoc/latest/stem/[directly embed LaTeX].
 
 == Donations/tips
-
-Scan this image, or click on it to tip me on Ko-fi:
-
-image:kofi_qrcode.png[link="https://ko-fi.com/felikcat"]
+image:kofi_qrcode.png[width=120,height=120,link="https://ko-fi.com/felikcat"] +
+Scan this image, or click on it to tip me on Ko-fi.
