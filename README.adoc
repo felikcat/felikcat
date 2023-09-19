@@ -1,10 +1,4 @@
 == About
-A 22 year old male currently studying a 2022 CompTIA+ Networking book and using Zig.
-
-Zig fits how I instruct a computer the most, despite knowing little, but I know a good amount of Bash. Tried high-level languages like Swift, they are uncomfortable to me with all the hand-holding and layers of abstractions, it feels like instructing an AI to do something.
+A 22 year old male currently studying a 2022 CompTIA+ Networking book and using C++, with an interest in Zig once that's stabilized.
 
 I document in https://docs.asciidoctor.org/asciidoctor/latest/#what-is-asciidoctor[AsciiDoctor]; more features and easier to use than Markdown. AsciiDoctor can also https://docs.asciidoctor.org/asciidoc/latest/stem/[directly embed LaTeX].
-
-== Donations/tips
-image:kofi_qrcode.png[width=120,height=120,link="https://ko-fi.com/felikcat"] +
-Scan this image, or click on it to tip me on Ko-fi.
