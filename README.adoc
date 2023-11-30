@@ -1,4 +1,2 @@
-== About
-A 22 year old male currently studying a 2022 CompTIA+ Networking book and using C++, with an interest in Zig once that's stabilized.
-
-I document in https://docs.asciidoctor.org/asciidoctor/latest/#what-is-asciidoctor[AsciiDoctor]; more features and easier to use than Markdown. AsciiDoctor can also https://docs.asciidoctor.org/asciidoc/latest/stem/[directly embed LaTeX].
+- Currently rewriting W11Boost into C.
+- I document in https://docs.asciidoctor.org/asciidoctor/latest/#what-is-asciidoctor[AsciiDoctor]; more features and easier to use than Markdown. AsciiDoctor also supports https://docs.asciidoctor.org/asciidoc/latest/stem/[embedding LaTeX].
